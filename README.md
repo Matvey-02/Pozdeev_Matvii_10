@@ -1,1 +1,3 @@
-# Pozdeev_Matvii_10
+## Pozdeev_Matvii_10
+##### Sokoban game
+*Use arrow keys to move*
